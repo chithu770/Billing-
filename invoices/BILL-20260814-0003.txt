@@ -1,0 +1,29 @@
+================================================
+             SUPERMART HYPERMARKET              
+  123 Commercial Avenue, Suite 400, Tech City   
+Phone:    +1 (800) 555-SUPER / +91 9876543210   
+GSTIN:              33AAAAA0000A1Z5             
+================================================
+Bill No   : BILL-20260814-0003
+Customer  : Walk-in Customer
+Phone     : 
+Date/Time : 2026-08-14 10:12:28
+------------------------------------------------
+Item Name            Qty  Price      Total     
+------------------------------------------------
+Kids Party Frock     7    $24.50     $171.50   
+Organic Basmati Ric  7    $15.99     $111.93   
+Whole Wheat Bread    7    $2.20      $15.40    
+Wireless Bluetooth   7    $39.99     $279.93   
+------------------------------------------------
+Subtotal                          : $578.76
+Discount                          : $0.00
+Tax (GST)                         : $28.94
+================================================
+GRAND TOTAL                       : $607.70
+================================================
+Payment Mode: Cash
+
+        Thank you for shopping with us!         
+               Please Visit Again               
+================================================

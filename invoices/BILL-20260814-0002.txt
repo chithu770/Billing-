@@ -1,0 +1,28 @@
+================================================
+             SUPERMART HYPERMARKET              
+  123 Commercial Avenue, Suite 400, Tech City   
+Phone:    +1 (800) 555-SUPER / +91 9876543210   
+GSTIN:              33AAAAA0000A1Z5             
+================================================
+Bill No   : BILL-20260814-0002
+Customer  : Walk-in Customer
+Phone     : 
+Date/Time : 2026-08-14 10:11:24
+------------------------------------------------
+Item Name            Qty  Price      Total     
+------------------------------------------------
+Fast Charging Power  1    $22.50     $22.50    
+Remote Control Car   1    $29.99     $29.99    
+Whole Wheat Bread    7    $2.20      $15.40    
+------------------------------------------------
+Subtotal                          : $67.89
+Discount                          : $0.00
+Tax (GST)                         : $3.39
+================================================
+GRAND TOTAL                       : $71.28
+================================================
+Payment Mode: Cash
+
+        Thank you for shopping with us!         
+               Please Visit Again               
+================================================

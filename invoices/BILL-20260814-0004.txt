@@ -1,0 +1,31 @@
+================================================
+           Gateway Software Solutions           
+                     Erode                      
+Phone:                9087654321                
+GSTIN:               xxxxxxxxxxxxx              
+================================================
+Bill No   : BILL-20260814-0004
+Customer  : Chithu
+Phone     : 9824663232
+Email     : chithu@gmail.com
+Address   : Coimbatore
+Date/Time : 2026-08-14 10:23:33
+------------------------------------------------
+Item Name            Qty  Price      Total     
+------------------------------------------------
+Organic Basmati Ric  2    Rs.15.99   Rs.31.98  
+Wireless Bluetooth   2    Rs.39.99   Rs.79.98  
+------------------------------------------------
+Subtotal                          : Rs.111.96
+Discount                          : Rs.0.00
+Tax (GST)                         : Rs.5.60
+================================================
+GRAND TOTAL                       : Rs.117.56
+Amount Paid                       : Rs.117.56
+Change Due                        : Rs.0.00
+================================================
+Payment Mode: Cash
+
+        Thank you for shopping with us!         
+               Please Visit Again               
+================================================

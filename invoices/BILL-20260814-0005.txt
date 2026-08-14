@@ -1,0 +1,25 @@
+================================================
+           Gateway Software Solutions           
+                     Erode                      
+Phone:                9087654321                
+GSTIN:               xxxxxxxxxxxxx              
+================================================
+Bill No   : BILL-20260814-0005
+Customer  : Walk-in Customer
+Phone     : N/A
+Date/Time : Now (Draft)
+------------------------------------------------
+Item Name            Qty  Price      Total     
+------------------------------------------------
+------------------------------------------------
+Subtotal                          : Rs.0.00
+Discount                          : Rs.0.00
+Tax (GST)                         : Rs.0.00
+================================================
+GRAND TOTAL                       : Rs.0.00
+================================================
+Payment Mode: Cash
+
+        Thank you for shopping with us!         
+               Please Visit Again               
+================================================
