@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛍️ SuperMart - Category-Wise Billing & Inventory Software
 
 A modern, full-featured desktop Point of Sale (POS) and inventory management application built using **Python 3**, **Tkinter GUI**, **SQLite Database**, **ReportLab PDF Exporter**, and **Pillow/QRCode**.
@@ -63,3 +64,6 @@ Run the following command in your terminal from the project directory:
 ```bash
 python main.py
 ```
+=======
+# Billing-
+>>>>>>> c08f9e018f97c2b675b113e8e342ea05d48cfce7
