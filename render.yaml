@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: billing-software-gui
+    env: docker
+    region: oregon # Or any region you prefer (e.g., frankfurt, ohio, singapore)
+    plan: free # Change to starter/standard depending on performance needs
+    envVars:
+      - key: PORT
+        value: 10000
