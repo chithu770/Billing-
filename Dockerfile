@@ -26,6 +26,9 @@ COPY . .
 # Fix Windows line endings and make the start script executable
 RUN sed -i 's/\r$//' start.sh && chmod +x start.sh
 
+# Make vnc.html the default page so it loads automatically on the main URL
+RUN ln -s /usr/share/novnc/vnc.html /usr/share/novnc/index.html
+
 # Expose the default Render port
 EXPOSE 10000
 
