@@ -23,8 +23,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the rest of the application
 COPY . .
 
-# Make the start script executable
-RUN chmod +x start.sh
+# Fix Windows line endings and make the start script executable
+RUN sed -i 's/\r$//' start.sh && chmod +x start.sh
 
 # Expose the default Render port
 EXPOSE 10000
