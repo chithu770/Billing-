@@ -11,6 +11,7 @@ RUN apt-get update && apt-get install -y \
     websockify \
     fluxbox \
     python3-tk \
+    fonts-liberation \
     && rm -rf /var/lib/apt/lists/*
 
 # Set working directory

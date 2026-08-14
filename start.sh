@@ -6,7 +6,7 @@ export DISPLAY=:0
 
 # Start X virtual framebuffer
 echo "Starting Xvfb..."
-Xvfb :0 -screen 0 1024x768x16 -nolisten tcp &
+Xvfb :0 -screen 0 1920x1080x24 -nolisten tcp &
 sleep 2
 
 # Start Fluxbox window manager
